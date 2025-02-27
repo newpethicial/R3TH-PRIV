@@ -4,7 +4,7 @@ Hello! This is the official repository for Distortion. The official discord is [
 ## Loadstring
 The current loadstring is:
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/notdistortion/Distortion/refs/heads/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/newpethicial/R3TH-PRIV/refs/heads/main/loader.lua"))()
 ```
 ## Compatibility
 Distortion is compatible with the following:
